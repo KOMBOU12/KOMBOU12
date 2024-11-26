@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KOMBOU12
-- 👀 I’m interested in Data Science, Data Anlasis and Computer Science
+- 👋 Hi, I’m KOMBOU
+- 👀 I’m interested in Data Science, Data Analysis and Computer Science
 - 🌱 I’m currently learning Conformal Prediction
 - 💞️ I’m looking to collaborate on Data science and Statistics projects
 - 📫 How to reach me jeankomboum@gmail.com
